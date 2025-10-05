@@ -16,6 +16,7 @@
 # For example, ignore all .tfvars except example.tfvars
 *.tfvars
 *.tfvars.*
+*.auto.tfvars
 # !example.tfvars
 
 # Saved plan files
