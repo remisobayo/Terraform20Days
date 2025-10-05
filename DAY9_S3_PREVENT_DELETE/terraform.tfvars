@@ -1,1 +1,0 @@
-KKE_BUCKET_NAME = "datacenter-s3-24299"

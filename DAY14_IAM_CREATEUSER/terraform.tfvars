@@ -1,1 +1,0 @@
-KKE_USER_NAME = "iamuser_ammar"
