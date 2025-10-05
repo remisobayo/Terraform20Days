@@ -4,6 +4,7 @@
 
 # Local Terraform directory
 .terraform/
+**/.terraform/
 
 # Terraform variable files (containing sensitive data)
 # You might want to keep an example.tfvars, but exclude others.
@@ -17,6 +18,9 @@
 # Crash log files
 crash.log
 crash.*.log
+*crash.log
+**/crash.*.log
+
 
 # Terraform CLI configuration files
 .terraformrc
