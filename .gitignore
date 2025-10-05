@@ -6,6 +6,10 @@
 .terraform/
 **/.terraform/
 **/.terraform/*
+./DAY0_SNS_ENCRYPTION/.terraform/providers/registry.terraform.io/hashicorp/aws/5.100.0/darwin_arm64/terraform-provider-aws_v5.100.0_x5
+./DAY12_SNS_INTEGRATE_SQS/.terraform/providers/registry.terraform.io/hashicorp/aws/5.91.0/darwin_arm64/terraform-provider-aws_v5.91.0_x5
+./DAY16_SNS_IAMEVENTS/.terraform/providers/registry.terraform.io/hashicorp/aws/6.14.1/darwin_arm64/terraform-provider-aws_v6.14.1_x5
+
 
 # Terraform variable files (containing sensitive data)
 # You might want to keep an example.tfvars, but exclude others.
