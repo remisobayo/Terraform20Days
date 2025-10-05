@@ -5,11 +5,13 @@
 # Local Terraform directory
 .terraform/
 **/.terraform/
+**/.terraform/*
 
 # Terraform variable files (containing sensitive data)
 # You might want to keep an example.tfvars, but exclude others.
 # For example, ignore all .tfvars except example.tfvars
 *.tfvars
+*.tfvars.*
 # !example.tfvars
 
 # Saved plan files
